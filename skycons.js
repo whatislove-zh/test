@@ -658,7 +658,7 @@
     swoosh(ctx, t, w * 0.5, h * 0.5, s, s * STROKE, 1, 2, color);
   };
 
-  Skycons.q04n = function(ctx, t, color) {
+  Skycons.q04d = function(ctx, t, color) {
     var w = ctx.canvas.width,
         h = ctx.canvas.height,
         s = Math.min(w, h);
