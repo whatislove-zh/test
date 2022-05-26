@@ -22,7 +22,7 @@ window.addEventListener("load", () => {
           return response.json();
         })
         .then((data) => {
-
+          console.log(data)
           let tempKelvin = data.main.temp;
           let countryTimezone = data.sys.country;
           let cityTimezone = data.name;
