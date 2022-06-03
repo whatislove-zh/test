@@ -1,2 +1,6 @@
 # wheatherApp
-some project, app that show the current weather using free API, and can show you temperature in celsium and fahrenheit if click it
+### app that show the current weather using free API
+### and can show you temperature in celsium and fahrenheit if click it
+### also app using prety icon from skyicons
+
+![mainScreen](/readMeAssets/mainScren.png)
